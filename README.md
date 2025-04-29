@@ -19,4 +19,10 @@ Lab 5: Developed a SecurityHandler, a proxy that enforces user authentication by
 
 
 
+
+
+https://github.com/user-attachments/assets/c41b992e-2fa0-4993-ac0f-07f525fa9b89
+
+
+
 Assignment Link: https://www.cs.sjsu.edu/faculty/pearce/modules/projects/ood/simpleServer/echo/index.htm 
